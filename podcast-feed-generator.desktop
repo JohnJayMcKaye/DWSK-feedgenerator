@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Podcast Feed Generator
+Comment=Erstelle und verwalte Podcast RSS-Feeds
+Exec=python3 /opt/podcast-feed-generator/main.py
+Icon=audio-podcast
+Terminal=false
+Type=Application
+Categories=Audio;Network;
+StartupWMClass=de.podcast.feedgenerator
+Keywords=Podcast;RSS;Feed;Audio;
