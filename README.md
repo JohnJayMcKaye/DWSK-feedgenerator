@@ -8,6 +8,10 @@ Erstellt und verwaltet RSS 2.0 + iTunes/Spotify-kompatible Podcast-Feeds.
 
 ---
 
+![](screenshot.png)
+
+---
+
 ## Funktionen
 
 - **Neuen Podcast einrichten** – Alle Metadaten konfigurieren (Titel, Beschreibung, URLs, Cover-Bild …)
